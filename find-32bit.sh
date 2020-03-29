@@ -1,6 +1,5 @@
 #!/bin/bash
 
-starthere="/Applications/KompoZer.app"
 starthere="/Applications /Library ~/Applications ~/Library "
 
 sudo find $starthere -type d -name \*.app |  \
